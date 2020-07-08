@@ -1,0 +1,24 @@
+{
+  "name": "learning-professional-js-platzi-video",
+  "version": "1.0.0",
+  "description": "Project to learn javaScript as a professional developer. This is a media player component into the platzi interface",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipedc09/learning-professional-js-platzi-video.git"
+  },
+  "keywords": [],
+  "author": "Felipe Duitama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipedc09/learning-professional-js-platzi-video/issues"
+  },
+  "homepage": "https://github.com/felipedc09/learning-professional-js-platzi-video#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
